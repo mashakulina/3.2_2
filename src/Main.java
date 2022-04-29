@@ -11,10 +11,10 @@ public class Main {
 //            bonus = 0;
 //        }
 
-        int bonus = (refill>1000) ? (refill/100) : 0;
+        int bonus = (refill > 1000) ? (refill / 100) : 0;
 
         System.out.println("Начисленно бонусов: " + bonus);
-        System.out.println("Баланс: " + (refill+bill+bonus));
+        System.out.println("Баланс: " + (refill + bill + bonus));
 
     }
 }
