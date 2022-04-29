@@ -5,8 +5,8 @@ public class Main {
         int refill = 1100; //пополнение счета на сумму
 
 //        int bonus;
-//        if (refill>1000) {
-//            bonus = refill/100;
+//        if (refill > 1000) {
+//            bonus = refill / 100;
 //        } else {
 //            bonus = 0;
 //        }
